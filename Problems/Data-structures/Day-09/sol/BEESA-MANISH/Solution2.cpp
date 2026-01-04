@@ -1,6 +1,6 @@
 /*
 
-Submission link: 
+Submission link: https://codeforces.com/contest/61/submission/356395307
 
 TC- o(n log n)
 SC - o(n)
@@ -11,12 +11,6 @@ Treat each element as the middle of a triplet.
 Count bigger elements on the left and smaller elements on the right.
 Multiply these counts and sum for all positions to get the answer.
 */
-
-
-
-
-
-
 
 #include <bits/stdc++.h>
 using namespace std;
